@@ -4,7 +4,7 @@ Microscopes have morphed from purely optical instruments into motorized, robotic
 
 To start to address these challenges by identifying common problems and shared solutions, we assembled a small group of researchers that develop or use software to control their custom-build microscopes at the Janelia Research Campus for a two day workshop in February 2020.  The outcome of the workshop was the definition of clear milestones, as well as the recognition of an involved community, much larger than the one assembled at the workshop. This community encounters similar hurdles and shares a great desire to overcome these by stronger, community-wide collaborations on Open Source Software.  This White Paper summarizes the major issues identified, proposes approaches to address these as a community, and outlines the next steps that can be taken to develop a framework facilitating shared microscope software development, significantly speeding up development of new microscopy systems.
 
-sup><sub>This is subbed-sup text</sub></sup>
+<sup><sub>This is subbed-sup text</sub></sup>
 
 **Workshop Video Coverage:**
 
