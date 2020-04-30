@@ -3,6 +3,7 @@
 **White Paper Draft:**
 
 **Workshop Video Coverage:**
+
 Plenary talk by Nico Stuurmann:  https://youtu.be/JEzsy-qtcbE  
 5-min presentations of all attendees (part 1/2):  https://youtu.be/N55imdegYPc  
 5-min presentations of all attendees (part 2/2):  https://youtu.be/irAKA4wVf_Y
