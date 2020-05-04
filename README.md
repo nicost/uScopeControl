@@ -4,7 +4,9 @@ Development of new microscopes most often depends on concurrent software develop
 
 **White Paper Draft:**
 
-https://github.com/nicost/uScopeControl/blob/master/Software%20for%20Microscopy%20Workshop%20WhitePaper.pdf
+On arxiv: https://arxiv.org/abs/2005.00082
+
+Or on github: https://github.com/nicost/uScopeControl/blob/master/Software%20for%20Microscopy%20Workshop%20WhitePaper.pdf
 
 **Workshop Video Coverage:**
 
