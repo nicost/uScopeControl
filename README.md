@@ -41,3 +41,5 @@ Please expand this list and descriptions (use a Pull Request).
 - [Pymeasure](https://github.com/ralph-group/pymeasure/issues/53%5D): More discussions about Python and lab automation.
 
 - [Itom](https://itom.bitbucket.io/index.html): General lab automation software in Python/QT/OpenCV.
+
+- [Storm-Control](https://github.com/ZhuangLab/storm-control): Python based software for microscopy applications, originally designed for STORM data acquistion and then extended for MERFISH data acquisition.
