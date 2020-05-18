@@ -20,7 +20,7 @@ Plenary talk by Nico Stuurman:  https://youtu.be/JEzsy-qtcbE
 
 Please expand this list and descriptions (use a Pull Request).
 
-- [Micro-Manager](https://micro-manager.org): Open source microscope control software with a user interface written in Java and a device abstraction layer in C++ (see: [Project Overview](https://micro-manager.org/wiki/Micro-Manager_Project_Overview)). The device abstraction layer can be used in C/C++, Java (MMCoreJ_wrap.jar), and [Python](https://github.com/micro-manager/pymmcore). More than [200 "device adapters" are available]([Device Support - Micro-Manager](https://micro-manager.org/wiki/Device_Support)).  [Pycro-Manager](https://github.com/micro-manager/pycro-manager) is a ZeroMQ-based interface between the Micro-Manager Java layer and Python.
+- [Micro-Manager](https://micro-manager.org): Open source microscope control software with a user interface written in Java and a device abstraction layer in C++ (see: [Project Overview](https://micro-manager.org/wiki/Micro-Manager_Project_Overview)). The device abstraction layer can be used in C/C++, Java (MMCoreJ_wrap.jar), and [Python](https://github.com/micro-manager/pymmcore). More than [200 "device adapters"](https://micro-manager.org/wiki/Device_Support) are available.  [Pycro-Manager](https://github.com/micro-manager/pycro-manager) is a ZeroMQ-based interface between the Micro-Manager Java layer and Python.
 
 - [Python-data-acquisition](https://github.com/python-data-acquisition/meta):  Discussions concerning unifying microscope control with Python
 
@@ -30,11 +30,11 @@ Please expand this list and descriptions (use a Pull Request).
 
 - [ACQ4](http://www.acq4.org/) is a python-based platform for experimental neurophysiology. It includes support for patch-clamp electrophysiology, multiphoton imaging, scanning laser photostimulation, and many other experimental techniques. 
 
-- [ScanImage]([ScanImage Home - ScanImage - Vidrio Technologies](http://scanimage.vidriotechnologies.com/display/SIH/ScanImage+Home)) is an open-source software application for laser scanning microscopy, 
+- [ScanImage](http://scanimage.vidriotechnologies.com/display/SIH/ScanImage+Home) is an open-source software application for laser scanning microscopy, 
   electrophysiology, laser scanning photostimulation, and other 
   physiological methods focused on neurobiology. Developed in Matlab.
 
-- [Tormenta]([GitHub - fedebarabas/tormenta: Measurement control and analysis for super-resolution localization fluorescence microscopy](https://github.com/fedebarabas/tormenta)): Measurement control and analysis for super-resolution localization fluorescence microscopy
+- [Tormenta](https://github.com/fedebarabas/tormenta): Measurement control and analysis for super-resolution localization fluorescence microscopy
 
 - [LabPy](https://github.com/LabPy/labpy-discussion/issues): Discussions about Python for lab automation
 
