@@ -10,6 +10,38 @@ Or on github: https://github.com/nicost/uScopeControl/blob/master/Software%20for
 
 **Workshop Video Coverage:**
 
-Plenary talk by Nico Stuurmann:  https://youtu.be/JEzsy-qtcbE  
+Plenary talk by Nico Stuurman:  https://youtu.be/JEzsy-qtcbE  
 5-min presentations of all attendees (part 1/2):  https://youtu.be/N55imdegYPc  
 5-min presentations of all attendees (part 2/2):  https://youtu.be/irAKA4wVf_Y
+
+
+
+**Online resources related to open source microscope control software and attempts towards unification:**
+
+Please expand this list and descriptions (use a Pull Request).
+
+- [Micro-Manager](https://micro-manager.org): Open source microscope control software with a user interface written in Java and a device abstraction layer in C++ (see: [Project Overview](https://micro-manager.org/wiki/Micro-Manager_Project_Overview)). The device abstraction layer can be used in C/C++, Java (MMCoreJ_wrap.jar), and [Python](https://github.com/micro-manager/pymmcore). More than [200 "device adapters" are available]([Device Support - Micro-Manager](https://micro-manager.org/wiki/Device_Support)).  [Pycro-Manager](https://github.com/micro-manager/pycro-manager) is a ZeroMQ-based interface between the Micro-Manager Java layer and Python.
+
+- [Python-data-acquisition](https://github.com/python-data-acquisition/meta):  Discussions concerning unifying microscope control with Python
+
+- [Python Microscopy environment](http://www.python-microscopy.org/): is an open-source package providing image acquisition and data analysis functionality for a number of microscopy applications
+
+- [MicronOxford Python Microscopy package](https://github.com/MicronOxford/microscope): Microscope hardware abstraction in Python (with separate user interface Cockpit). Alias for [Python Microscope](https://www.python-microscope.org/).
+
+- [ACQ4](http://www.acq4.org/) is a python-based platform for experimental neurophysiology. It includes support for patch-clamp electrophysiology, multiphoton imaging, scanning laser photostimulation, and many other experimental techniques. 
+
+- [ScanImage]([ScanImage Home - ScanImage - Vidrio Technologies](http://scanimage.vidriotechnologies.com/display/SIH/ScanImage+Home)) is an open-source software application for laser scanning microscopy, 
+  electrophysiology, laser scanning photostimulation, and other 
+  physiological methods focused on neurobiology. Developed in Matlab.
+
+- [Tormenta]([GitHub - fedebarabas/tormenta: Measurement control and analysis for super-resolution localization fluorescence microscopy](https://github.com/fedebarabas/tormenta)): Measurement control and analysis for super-resolution localization fluorescence microscopy
+
+- [LabPy](https://github.com/LabPy/labpy-discussion/issues): Discussions about Python for lab automation
+
+- [Pymeasure](https://github.com/ralph-group/pymeasure/issues/53%5D): More discussions about Python and lab automation
+
+- [Itom](https://itom.bitbucket.io/index.html): General lab automation software in Python/QT/OpenCV
+
+- [SciScan](https://www.cambridge.org/core/journals/microscopy-today/article/opensource-software-for-controlling-twophoton-laser-scanning-microscopes/DC9B64CA4836866115A6F812DB28237E/core-reader): LabView-based open source software for two-photon laser scanning microscopy
+  
+  
