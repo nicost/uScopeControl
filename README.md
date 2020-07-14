@@ -28,7 +28,7 @@ Please expand this list and descriptions (use a Pull Request).
 
 - [ScanImage](http://scanimage.vidriotechnologies.com/display/SIH/ScanImage+Home) is an open-source software application for laser scanning microscopy, electrophysiology, laser scanning photostimulation, and other physiological methods focused on neurobiology. Developed in Matlab.
 
-- [BakingTray](https://github.com/SainsburyWellcomeCentre/BakingTray/) wrapper around the ScanImage API that provides serial section 2-photon imaging system inspired by the TeraVoxel [Economo, et al](https://elifesciences.org/articles/10566) and [MouseLight](https://github.com/MouseLightPipeline) [(Winnubst, et al)](https://www.sciencedirect.com/science/article/pii/S0092867419308426?via%3Dihub) projects. 
+- [BakingTray](https://github.com/SainsburyWellcomeCentre/BakingTray/) is a wrapper around the ScanImage API that provides serial section 2-photon imaging system inspired by the TeraVoxel [Economo, et al](https://elifesciences.org/articles/10566) and [MouseLight](https://github.com/MouseLightPipeline) [(Winnubst, et al)](https://www.sciencedirect.com/science/article/pii/S0092867419308426?via%3Dihub) projects. 
   
 - [SciScan](https://www.cambridge.org/core/journals/microscopy-today/article/opensource-software-for-controlling-twophoton-laser-scanning-microscopes/DC9B64CA4836866115A6F812DB28237E/core-reader): LabView-based open source software for two-photon laser scanning microscopy.
 
