@@ -45,3 +45,7 @@ Please expand this list and descriptions (use a Pull Request).
 - [Itom](https://itom.bitbucket.io/index.html): General lab automation software in Python/QT/OpenCV.
 
 - [Storm-Control](https://github.com/ZhuangLab/storm-control): Python based software for microscopy applications, originally designed for STORM data acquistion and then extended for MERFISH data acquisition.
+
+- [SBEMimage](https://github.com/SBEMimage/): Python/PyQt-based acquisition software for scanning electron microscopy, with a focus on Serial Block-face Electron Microscopy (SBEM). 
+
+- [Qudi](https://github.com/Ulm-IQO/qudi): Python framework for running multi-instrument lab experiments, originally built around confocal fluorescence microscopy.
